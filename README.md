@@ -1,4 +1,4 @@
-## Mi nombre es Lorenzo
+## Hola me llamo Lorenzo, pero puedes decirme Lorenz
 
 <!--
 **Lorwx/Lorwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
